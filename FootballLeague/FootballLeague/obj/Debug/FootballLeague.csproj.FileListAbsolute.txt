@@ -1,6 +1,0 @@
-E:\C# homework\ObjectOrientedProgramming\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe.config
-E:\C# homework\ObjectOrientedProgramming\FootballLeague\FootballLeague\bin\Debug\FootballLeague.exe
-E:\C# homework\ObjectOrientedProgramming\FootballLeague\FootballLeague\bin\Debug\FootballLeague.pdb
-E:\C# homework\ObjectOrientedProgramming\FootballLeague\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
-E:\C# homework\ObjectOrientedProgramming\FootballLeague\FootballLeague\obj\Debug\FootballLeague.exe
-E:\C# homework\ObjectOrientedProgramming\FootballLeague\FootballLeague\obj\Debug\FootballLeague.pdb
